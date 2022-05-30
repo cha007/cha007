@@ -1,4 +1,12 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
+<h3 align="center">I am a C++ developer</h3>
+
+
+<h3 align="left">Languages and Tools:</h3>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cha007&layout=compact" alt="cha007" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cha007&show_icons=true" alt="cha007" /></p>
 
 <!--
 **cha007/cha007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
